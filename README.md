@@ -1,2 +1,0 @@
-# Factory
-example factory pattern
